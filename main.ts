@@ -9,7 +9,7 @@
 basic.showIcon(IconNames.Happy)
 robotbit.MotorStopAll()
 
-// button a
+// Button a
 input.onButtonPressed(Button.A, function () {
     // Show that it is running
     basic.showIcon(IconNames.Surprised)
