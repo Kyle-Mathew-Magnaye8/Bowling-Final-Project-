@@ -17,7 +17,7 @@ input.onButtonPressed(Button.A, function () {
     // Starts the conveyor belt to move forward
     robotbit.StpCarMove(40, 48)
 
-    // Wait for 4 second while it is moves
+    // Wait for 4 second while it moves
     basic.pause(4000)
 
     // Stops the conveyor belt completeler
